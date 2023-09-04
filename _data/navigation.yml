@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     url: /cv/
-    url: /files/Curriculum Vitae_Yijun Sun.pdf
+    url: https://github.com/Yijun-Sun/academicpages.github.io/blob/master/files/Curriculum%20Vitae_Yijun%20Sun.pdf
     
   - title: "Publications"
     url: /publications/
