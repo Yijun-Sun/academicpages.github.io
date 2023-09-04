@@ -2,6 +2,7 @@
 main:
   - title: "CV"
     url: /cv/
+    url: /files/Curriculum Vitae_Yijun Sun.pdf
     
   - title: "Publications"
     url: /publications/
