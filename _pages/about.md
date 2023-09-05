@@ -14,6 +14,6 @@ My research revolves around a broad spectrum of mediatic technologies that shape
 
 My other projects include the way human bodies were positioned within the physical and biological modalities of media design during the nineteenth and twentieth centuries. In a paper I publised in Cultural Critique, I explored the positioning of human bodies within the optical dynamics of ninteenth-century architectural spaces, examining the interplay between surveillance, spectatorship, and the fusion of subject-object roles within the operation of communities.
 
-I hold an MA in Communication from Beijign Normal University and BAs in Communication and History from Beijign Normal University.
+I hold an MA in Communication from Beijign Normal University and a BA in Communication and History from Beijign Normal University.
 
 
