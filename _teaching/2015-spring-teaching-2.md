@@ -2,7 +2,6 @@
 title: "Social Impact of Mass Media"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
 venue: "University of Massachusetts Amehrst, Department of Communication"
 date: 2020-08-24
 location: "Amherst, MA"
