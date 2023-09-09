@@ -1,7 +1,7 @@
 ---
 title: "Social Impact of Mass Media"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 venue: "University of Massachusetts Amehrst, Department of Communication"
 date: 2020-08-24
 location: "Amherst, MA"
