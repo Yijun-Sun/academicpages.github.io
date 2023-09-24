@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Media Industries and Institutions"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Massachusetts Amherst, Department of Communication"
 date: 2022-09-06
