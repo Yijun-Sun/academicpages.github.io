@@ -1,0 +1,205 @@
+---
+title: "Artificial Intelligence in the Past and Present"
+collection: teaching
+type: "Undergraduate Course"
+---
+
+Artificial Intelligence in the Past and Present
+
+
+Class meeting: TBD						        Room: TBD
+Instructor: Yijun Sun					        Contact: yijunsun@umass.edu
+Office Hours: TBD
+
+Course Description:
+Have you ever wondered how artificial intelligence has shaped our past, present, and future? In this course, we will take on a journey through the history of AI, discussing its multifaceted nature from three distinctive angles: technical development, philosophical underpinnings, and societal repercussions. From its inception to its contemporary prominence, we will discuss the mysteries of AI, exploring its evolution through the lens of theories of technology. Along the way, we will traverse the intertwined history of robotics and AI decision-making, the milestones in algorithm development, the representation of AI in popular culture, and questions of bias and social justice in AI practice today.
+
+Objectives:
+By the end of this course, students are expected to:
+•	Develop a knowledge of the historical development of artificial intelligence
+•	Be able to analyze social issues related to artificial intelligence
+•	Improve their ability to use primary and secondary sources 
+•	Advance critical thinking and critical reading skills
+
+Required Readings:
+Recommended textbook: Nils J. Nilsson, The Quest for Artificial Intelligence, 1st edition (Cambridge and New York: Cambridge University Press, 2009).
+Weekly readings can be accessed on Moodle. 
+
+Course Requirements:
+Attendance and Participation: 20%
+Reflective Journal (×4): 20%
+Group Presentation: 30%
+Final Project: 30%
+
+Class Schedule:
+
+Unit 1 A Short History of Artificial Intelligence
+
+Week 1: Introduction
+What is Artificial Intelligence?
+
+Automata and the Mechanical Turk
+•	Edgar Allan Poe, "Maelzel's Chess-Player." 
+
+•	Jessica Riskin, “The Defecating Duck, or, the Ambiguous Origins of Artificial Life,” Critical Inquiry 29, no 4, Summer 2003: 599-633.
+
+Week 2: AI and Computing
+Computer as a Digital Brian
+•	Warren McCulloh and John Pfeiffer, “Of Digital Computers Called Brains.”
+•	Edmund C. Berkeley, Giant Brains or Machines That Think, pp. 1-9.
+
+Intelligent Machine
+•	A.M. Turing, "Computing Machinery and Intelligence."
+
+Week 3: The Origin of AI as a Field
+Cybernetics: Humans, Machines, Animals 
+•	Claude Shannon, “Presentation of a Maze-Solving Machine.”
+•	W. Ross Ashby, “Homeostasis.” 
+
+The Dartmouth Conference
+•	J. MacCarthy, et al, A Proposal for The Dartmouth Summer Research Project on Artificial Intelligence, August 31, 1955. 
+ 
+Unit 2: Technical Development of Artificial Intelligence
+
+Week 4: Robots and AI
+Humans and Nonhumans
+•	David J. Gunkel, Person, Thing, Robot: A Moral and Legal Ontology for the 21st Century and Beyond, pp.1-21.
+
+Race and Labor in Humanoid Machines
+•	Ranjodh Dhaliwal, "The Cyber-Homunculus: On Race and Labor in Plans for Computing." Configurations, 2022 30:4.
+
+Week 5: Talking to a Chatbot
+Natural Language Development
+•	Joseph Weizenbaum, “ELIZA—a computer program for the study of natural language communication between man and machine,” Communications of the ACM, V. 9 no 1, Jan. 1966, pgs 36-45. 
+
+Chatbot Interactions
+•	Levine AS. “Is Your Tinder Date Actually an AI Chat Bot? Maybe.” Forbes.com. February 2024
+
+Week 6: Seeing through AI
+Photography after Cinema and AI
+•	Joanna Zylinska, The Perception Machine: Our Photographic Future between the Eye and AI, pp. 119-146.
+
+Problems around Deepfake
+•	Film Screening: Another Body
+
+Week 7: AI in Gaming
+Finding the Path
+•	Peter E. Hart, et al, “A Formal Basis for the Heuristic Determination of Minimum Cost Paths,” IEEE Transactions of Systems Science and Cybernetics ssc-4, no 2, July 1968: 100-107. 
+
+From Chess to Go
+•	Nathan Ensmenger, "Is chess the drosophila of artificial intelligence? A social history of an algorithm," Social Studies of Science, Vol. 42, No. 1 (February 2012), pp. 5-30. 
+
+Unit 3: Representations in Popular Culture
+
+Week 8: The Fear of Artificial Intelligence
+Monsters in Movies
+•	Shane Denson, Frankenstein, Film, and the Anthropotechnical Interface, pp. 101-148.
+
+Demons vs Angels
+•	Jimena Canales and Markus Krajewski, “Little Helpers: About Demons, Angels and Other Servants.” 
+
+Week 9: Cyborgs and a Hybrid Future
+Posthuman Aesthetics 
+•	Donna Haraway, A Cyborg Manifesto: Science, Technology, and Socialist-feminism in the Late Twentieth Century.
+
+The Hybrid Nature of Humans: Beyond Binaries
+•	Beatriz Colomina and Mark Wigley, Are We Human? Notes on an Archaeology of Design, pp. 51-62.
+
+Unit 4: Artificial Intelligence in the Society 
+
+Week 10: AI and Bias
+Bias in Facial Recognition
+•	Joy Buolamwini and Timnit Gebru. “Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.” 
+
+Bias in Criminal Justice
+•	Rashida Richardson, Jason Schultz, and Kate Crawford. “Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice.”
+
+Week 11: The Gender of Artificial Intelligence
+The Gender of a Machine
+•	Micol Marchetti-Bowick, “Is Your Roomba Male or Female? The Role of Gender Stereotypes and Cultural Norms in Robot Design.”
+
+Data and Female Labor
+•	Catherine D’lgnazio and Lauren F. Klein, Data Feminism, pp. 1-20.
+
+Week 12: Student Presentation
+Group 1 & Group2
+Group 3 & Group4
+
+Week 13: Student Presentation
+Group 5 & Group6
+Group 7 & Group 8
+
+Week 14: Conclusion
+The Future of Artificial Intelligence
+
+
+Final Paper Guideline and Prep Schedule
+
+Assignment: Paper
+•	1–2-page Outline for Final Paper (5% of Overall Grade)
+An outline is a simple plan showing how you intend to present the analysis. The purpose of the outline is to provide you with a “blueprint” of the paper and easy reference when writing. Academic papers require that you identify a particular angle to pursue in writing, which will be the basis of the paper. What is the core of your argument? Are there secondary ideas? How do you support them?
+•	Final Paper (25% of Overall Grade)
+
+Goal: The goal of this assignment is to present a clear and detailed analysis of your research question using course concepts and theories. To help you build up your idea and write an academic paper properly, this assignment has several prep sessions.
+
+Description: In this essay of 5-7 pages, you should analyze a specific topic relating to artificial intelligence that interests you and make an argument in conversation with at least three course readings. This argumentative essay asks you to do a few things, in no particular order: 
+
+(1)	Describe your object of analysis with details that give your reader a clear picture of what you are discussing. Your descriptions will differ depending on what you choose. If you focus on a question like how streaming technology influences music industry, you will want to describe the importance of this question. If you choose to do a case study, you will describe the background of the case of your choice. Do not skip this part! I encourage you to include specific descriptions that ground your argument in concrete terms at the beginning of your paper. 
+
+(2)	Make at least one clear argument/question and prove it through your analysis. Your essay should have an argument that takes a stand on an issue. Final paper should NOT be a description or a summary of your example. It seeks to persuade an audience of a point of view through an analysis of your media example guided by academic theories/concepts/past research. In addition to providing concrete evidence for your argument, including and debunking “counterarguments” can also be a strong practice to develop in persuasive writing.
+
+(3)	Integrate your argument/question with at least three class reading. Use at least three class readings as background, case, or theory to support your argument. You should include thoughtful discussions of how a reading relates to your topic and what it reveals about it. Do not simply include a quote here or there without context or developing the point. You may also draw on outside readings, especially for your discussion of counterarguments, but you aren’t required to do extensive outside research for this paper. 
+
+(4)	Organize your paper in a clear way. Well-developed paragraphs should present one main point in each that relates directly to the thesis. Logical progression of ideas with a clear structure that enhances the thesis is encouraged. Uses transitions connecting paragraphs effectively. A good conclusion is original, and stresses what is important about the topic and effectively wraps up the discussion.
+
+Expectations:
+	-No late submission without prior permission or a documented emergency
+	-Papers should be 5-7 pages long, Double spaced, Times New Roman, 12pt font
+      -Use a proper citation style and provide a reference list 
+
+Prep Schedule:
+
+Session/Assignment	Date	Topic / Activity	Homework to be completed by the Session
+Kick Off!	Oct. 10	Final paper prep schedule and guideline distributed	-
+Try to think of the topic, theory, or question for your paper while working on your writing assignments.
+Final Paper Check-in (optional)	Nov. 14-21	Planning and designing your research	Email me your topic (100-300 words)
+Final Paper Outline Submission	Nov. 21	Submit your outline on Moodle by 11:59 pm
+Final Paper Workshop
+(TBD)	Dec. 10
+Last class!	Discuss your research progress and questions in class.
+Final Paper Due	Dec. 14	Submit your final paper on Moodle by 11:59 pm.
+
+Grading Criteria:
+
+Research proposal submitted	5 points
+Clear and specific descriptions of object of analysis, its social significance, and main question/claim	7 points
+Appropriate application of theory/class reading	7 points
+The quality of analysis (clear organization and thoughtful discussion)	7 points
+Presentation (proof-reading, formal writing style)	4 points
+TOTAL:	30 points
+
+
+
+Group Presentation Guidelines
+
+Please meet with your discussion group outside of class time and complete a case study report on the specific topic assigned to you. All members of the group are responsible to show up during the day of the class and present your report to the class. 
+
+The discussion presentation should meet these requirements:
+
+1. It should be 30 minutes long, including the time for class discussions. 
+2. The presentation should include an overview/summary of the article or chapter assigned to the week.
+3. You will extend the discussion with some of the cases you collected outside of class readings. They can come from academic papers, news report, videos, self-observations, etc. To aid your presentation and the discussion, you might provide the class with a handout or create PowerPoint slides.
+4. It requires your reflective readings of the information. Your discussion may come from your observations from reading the text, issues you felt the text raised that you’d like to further explore, problems you noticed with the research, a desire to challenge the text’s main argument, etc.
+5. You should prepare questions that can engage class discussions. Try your best to boost people’s interests and invite more inputs into your topic.
+
+
+Grading Criteria
+Successful delivery on the assigned date: 5 points
+Coordinated group effort: 5 points
+Fulfillment of all requirements listed above: 10 points
+Thorough and clear discussion of the materials: 5 points
+Good class engagement: 5 points 
+
+Total: 30 points
+
+Please share a copy of your presentation with me before the day of class.
