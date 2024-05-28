@@ -87,9 +87,10 @@ author:
   employer         : University of Massachusetts Amherst
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=i-VT9qIAAAAJ&view_op=list_works&gmla=AOV7GLPzsKCBrv4PeMTtjcmfuxYQQ0yg4RAPASGGU7Npv03rWeUcJQ_V8yD62mygSjr7--rcPKbbOdHhofyyfP63"
   email            : yijunsun@umss.edu
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/yijun-sun-82b91128b/
   orcid            : "https://orcid.org/0000-0002-7444-8778"
   twitter          : "@yijunsun_"
+  ResearchGrate    : https://www.researchgate.net/profile/Yijun-Sun-11
 # Reading Files
 include:
   - .htaccess
